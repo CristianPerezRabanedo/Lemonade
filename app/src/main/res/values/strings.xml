@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Limonada</string>
+    <string name="Lemon_Tree">Pulse el limonero para elegir un limón</string>
+    <string name="Lemon">Pulse el limón hasta aplastarlo</string>
+    <string name="Glass_Of_Lemonade">Pulse la limonada para beberla</string>
+    <string name="Empty_Glass">Pulse el vaso vacio para volver a empezar</string>
+</resources>
